@@ -86,6 +86,7 @@ function App() {
 
   return (
     <>
+    <Analytics/>
       <Navbar />
       <div className="mx-3 md:container md:mx-auto 100 my-5 p-5 rounded-xl bg-violet-100 min-h-screen md:w-[35%]">
         <h1 className='font-bold text-center text-4xl'>iTask manage your todos at once place</h1>
